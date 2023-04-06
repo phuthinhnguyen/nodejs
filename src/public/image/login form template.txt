@@ -1,0 +1,39 @@
+https://colorlib.com/wp/html5-and-css3-login-forms/
+https://github.com/longnguyen28596/passport-local
+
+
+First tap: /firsttap(or cardid)
++ 1 input Card ID
++ 1 input username
++ 1 input password
++ 1 input name
++ 1 button sign up
++ 1 link "u already have a account" => sign in
+
+Sign in: /signin
++ 1 input username
++ 1 input password
++ 1 button sign in
++ 1 link "forgot password"
+(Sign in ok => turn into Design user)
+
+Forgot password: /forgotpassword
++ 
+
+Design user: /username(or cardid)
++ 1 avatar
++ 1 p tag show name
++ 1 background theme picker
++ 1 button "+"
+	+ 1 input (url)
+	+ 1 menu option
+	+ 1 button close
++ 1 form link content
+	+ 1 link logo
+	+ 1 link content
++ 1 show on phone
++ 1 button save
+
+
+
+	
